@@ -1,2 +1,5 @@
 Esto es una prueba de git
-con dos lineas
+]Una linea nueva con cambio
+Linea nueva en New Feature
+otra cosa
+Linea al final Nf
